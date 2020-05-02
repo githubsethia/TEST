@@ -7,11 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "FDF15392",
-    "lastKnownWriteTime" : 1588431534,
-    "last_content_update" : 1588431534847,
+    "lastKnownWriteTime" : 1588431785,
+    "last_content_update" : 1588431785252,
     "path" : "~/TEST/TEST2.R",
     "project_path" : "TEST2.R",
     "properties" : {
+        "cursorPosition" : "0,7",
+        "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
     "read_only" : false,
